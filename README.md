@@ -8,9 +8,13 @@ This is done having the user input keywords he/she is looking for and whether it
 Download feedparser.py, mtTkinter.py, project_util.py, triggers.txt and ps5.py. ps5.py contains the implementation of the feed filter
 
 Feedparser.py: helper library
+
 mtTkinter.py: helper library
+
 project_util.py: util file
+
 rss_feed_parser.py: the actual file to be implemented
+
 triggers: user input to search for what and where
 
 ### Prerequisites
