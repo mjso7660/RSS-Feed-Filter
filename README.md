@@ -8,9 +8,9 @@ Download feedparser.py, mtTkinter.py, project_util.py, triggers.txt and ps5.py. 
 
 ### Prerequisites
 
-mtTkinter.py
+tkinter
 ```
-Give examples
+pip install tkinter
 ```
 ## Running the tests
 
@@ -20,12 +20,6 @@ Download ps5_test.py to test run
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
 ## Acknowledgement
 
 MIT OCW
@@ -34,5 +28,3 @@ Ana Bell, Eric Grimson, and John Guttag. 6.0001 Introduction to Computer Science
 ## Authors
 
 * **Min Joon So** - *Initial work* - [mjso7660](https://github.com/mjso7660)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
