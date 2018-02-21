@@ -1,3 +1,4 @@
+![Alt text](feed_parser.jpg?raw=true "Title")
 # RSS Feed Filter
 It will filter the news, alerting the user when it notices a news story that matches that user’s interests. 
 This is done having the user input keywords he/she is looking for and whether it appears in a news’ title, description or etc.
